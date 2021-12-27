@@ -6,6 +6,7 @@ public class Hello {
         System.out.println("Hello Orhan! I hope you understand GitHub");
         System.out.println("We created Git repository");
         System.out.println("Added");
+        System.out.println("Made few commits");
     }
 
 
