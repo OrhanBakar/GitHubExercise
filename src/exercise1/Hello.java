@@ -8,6 +8,7 @@ public class Hello {
         System.out.println("Added");
         System.out.println("Made few commits");
         System.out.println("I love GitHub");
+        System.out.println("GitHub my platonic love");
     }
 
 
